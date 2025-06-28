@@ -1,0 +1,23 @@
+#summary {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: #fff;
+    color: #007bff;
+    text-align: center;
+}
+
+hr {
+    border: 3px solid darkblue;
+    border-style: dashed;
+    margin: 20px 0;
+}
+
+#projects-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: lightblue;
+    color: darkblue;
+    text-align: center;
+}

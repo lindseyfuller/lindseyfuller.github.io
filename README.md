@@ -1,1 +1,1 @@
-# AboutMe2
+Used HTML5, CSS, and JavaScript to create responsive resume, linking github page/repositories.
