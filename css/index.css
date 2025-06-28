@@ -1,0 +1,37 @@
+    body {
+        background-color: lightblue;
+        text-align: center;
+    }
+
+    h1 {
+        background-color: darkblue;
+        padding: 50px;
+        font-family: "quicksand", sans-serif;
+        font-size: 50px;
+        color: white;
+    }
+
+    .contact {
+        font-family: "Quicksand", sans-serif;
+        font-weight: bold;
+        color: black;
+        text-align: center;
+        list-style-position: inside;
+    }
+
+    .links {
+        font-family: "Quicksand", sans-serif;
+        font-weight: bold;
+        color: black;
+        text-align: center;
+        list-style-position: inside;
+    }  
+
+    img {
+        border-radius: 75%;
+    }
+
+    hr {
+        border: 3px solid darkblue;
+        border-style: dashed;
+    }
