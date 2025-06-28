@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-     const projectSection = document.querySelector("main");
+     const projectSection = document.querySelector("#projects-container");
 
      fetch("https://api.github.com/users/lindseyfuller/repos?sort=updated&direction=desc")
        .then(response => response.json())
